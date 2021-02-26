@@ -22,6 +22,10 @@
 **Koordinationsmodell**:
 ![KM](./Resources/Images/koordination.PNG)
 
+**Vereinfachtes Architekturmodell, ready2mesh für CFD**:
+Lässt sich nach Spaces, Ifc-Klassen und einzelnen Objekten filtern
+![FM-ARC-STL](./Resources/Images/stl.png)
+
 
 
 
