@@ -26,7 +26,7 @@
 Lässt sich nach Spaces, Ifc-Klassen und einzelnen Objekten filtern
 ![FM-ARC-STL](./Resources/Images/stl.png)
 
-
-
+**Mit Space Boundaries angereichertes IFC-Modell. Tool: IFC2SB, e3d**  
+Space Boundaries ersten und zweiten Grades
 
 # Reference
