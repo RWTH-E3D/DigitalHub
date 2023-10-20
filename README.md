@@ -1,7 +1,7 @@
 ![RWTH Aachen University, E3D](./Resources/Images/E3D_Logo.png)
 
 # DigitalHub
-
+Die aktuelle Version V2 von Oktober 2023 finden Sie im Ordner Version_2. Diese ist von Autodesk Revit nach IFC4 Reference View exportiert worden. 
 
 
 
